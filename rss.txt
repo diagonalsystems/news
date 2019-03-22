@@ -1,0 +1,11 @@
+https://www.publicsafety.gc.ca/cnt/_xml/cybr-ctr-eng.xml
+https://cira.ca/blog/6300/feed
+https://cira.ca/blog/196/feed
+https://cybernb.ca/en/feed
+https://konnect.serene-risc.ca/feed
+https://citizenlab.ca/feed
+https://uwaterloo.ca/cybersecurity-privacy-institute/news/news.xml
+https://nationalpost.com/tag/cyber-security/feed
+https://hackfest.ca/feed.xml
+https://asiq.org/feed
+https://globalnews.ca/tag/cyber-security/feed
