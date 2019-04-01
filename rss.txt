@@ -9,3 +9,6 @@ https://nationalpost.com/tag/cyber-security/feed
 https://hackfest.ca/feed.xml
 https://asiq.org/feed
 https://globalnews.ca/tag/cyber-security/feed
+https://cyber.gc.ca/webservice/en/rss/news
+https://cyber.gc.ca/webservice/en/rss/alerts
+https://cyber.gc.ca/webservice/en/rss/guidance
